@@ -1,0 +1,29 @@
+.ak{
+    background-color: red;
+    width: 500px;
+    height: 20px;
+    margin:  auto;
+   
+
+}
+.ak1{
+    background-color:white;
+    width: 500px;
+    height: 20px;
+    margin: auto;
+
+}
+.ashok{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    color: white;
+
+}.akak{
+    padding-top: 300px;
+    background-color: aquamarine;
+}
+*{
+    background-color: aquamarine;
+}
