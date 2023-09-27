@@ -1,0 +1,68 @@
+
+
+
+body{
+    background-color: rgb(177, 166, 166);
+}
+
+.container{
+    margin:auto;
+    display: grid;
+    grid-template-columns: 0.90fr 1fr;
+    width: 50em;
+    height:50em;
+  
+}
+.container .card-one{
+    padding-left: 15px;
+    width: 100%;
+    background-color: rgb(3, 165, 165);
+    color: aliceblue;
+    box-sizing: border-box;
+    padding-top: 2em;
+   
+}
+.container .card-two{
+    padding-left: 25px;
+    width: 100%;
+    background-color: rgb(231, 225, 225);
+    color:black;
+}
+.skills{
+    font-size:20px;
+}
+.text{
+    font-size: 20px;
+    
+}
+.eduheading{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 20px;
+}
+
+
+img{
+
+    display: flex;
+    width: 15rem;
+    height: 15rem;
+    position: relative;
+    bottom: 1rem;
+    border-radius: 50%;
+    margin: auto;
+    
+   
+}
+.card1{
+    padding-top: 1.5em;
+}
+.name{
+   margin: auto;
+    font-size: 20px;
+    font-style: italic;
+    color: whitesmoke;
+    
+}
+.strength{
+    padding-top: 10px;
+}
