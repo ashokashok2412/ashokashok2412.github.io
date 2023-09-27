@@ -8,7 +8,7 @@ body{
 .container{
     margin:auto;
     display: grid;
-    grid-template-columns: 0.70fr 1fr;
+    grid-template-columns: 0.90fr 1fr;
     width: 50em;
     height:50em;
   
